@@ -13,5 +13,6 @@ After installing, paste the following code in your ```string.php``` file, you ca
     $ckeditor_type = "basic";
 ```
 
-**Accepted Values**: ```basic``` | ```standard``` | ```full```
+**Accepted Values**: ```basic``` | ```standard``` | ```full```.
+
 Go to [CKEditor](http://ckeditor.com/) to learn more.
