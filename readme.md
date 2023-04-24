@@ -15,4 +15,7 @@ After installing, paste the following code in your ```string.php``` file, you ca
 
 **Accepted Values**: ```basic``` | ```standard``` | ```full```.
 
+```js
+CKEDITOR.replace('name-of-input');
+```
 Go to [CKEditor](http://ckeditor.com/) to learn more.
